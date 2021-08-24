@@ -9,12 +9,14 @@ Binning is a quantization technique in Machine Learning to handle continuous var
 * Unsupervised Binning :
 1. Equal width binning<br>
 2. Equal frequency binning<br>
-       ![equal width anf equal frequrncy](https://user-images.githubusercontent.com/64833579/130641006-444bb776-a8aa-4dcf-86b1-a716996e0102.png)
+
+![equal width anf equal frequrncy](https://user-images.githubusercontent.com/64833579/130641006-444bb776-a8aa-4dcf-86b1-a716996e0102.png)
 
 
 * Supervised Binning:
-1. Entropy-based binning
-      ![entropy binning](https://user-images.githubusercontent.com/64833579/130642412-6ceba745-5315-4fc2-ba59-3ff3d6967ccf.jpg)
+1. Entropy-based binning <br>
+ 
+![entropy binning](https://user-images.githubusercontent.com/64833579/130642412-6ceba745-5315-4fc2-ba59-3ff3d6967ccf.jpg)
 
 
 
